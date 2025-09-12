@@ -1,1 +1,1 @@
-Este repositório tem como finalidade a inserção de projetos realizados enquanto aprimoro meus conhecimentos em QA Tester Jr.
+Este repositório foi criado com a finalidade de armazenar projetos realizados na matéria de "Desenvolvimento de carreira e imagem profissional" de AGOSTO/2025, do 1º semestre do curso de ADS.
